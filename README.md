@@ -147,19 +147,153 @@ lorem ipsum yo
 
 ## Updating
 
-If this modlist is updated, please read the [Changelog](#changelog) before doing anything else. Always backup your saves or start a new game after updating.
+If this modlist has been updated, please read the [Changelog](#changelog) before doing anything else.
 
-**Wabbajack will delete all files that are not part of the modlist when updating!**
+Backup your saves, but keep in mind that saves are often incompatible with a new version. Starting a new game is the safest option after updating.
 
-This means that any additional mods you have installed will be deleted. Your downloads folder will not be touched.
+**Note that Wabbajack will delete all files that are not part of the modlist when updating!**
 
-Updating through Wabbajack is similar to installing. Select the Installation Location and Download Location again, but make sure you tick the checkbox _Overwrite Installation_.
+Ready to update? Updating with Wabbajack is similar to the first-time installation. Select your Installation and Download Locations again, but make sure to tick the checkbox _Overwrite Installation_. Click the Go/Start button, and wait for Wabbajack to finish.
 
 ## Included Mods
 
-### placeholder
-
-lorem ipsum yo
+**Fallout 4 Script Extender (F4SE)**
+Extends scripting functionality in Fallout 4.
+**Buffout 4**
+Fixes engine bugs and adds a crash logger.
+**Unofficial Fallout 4 Patch**
+**Mod Configuration Menu**
+**FO4 Photo Mode**
+Allows players to access an advanced screenshot tool.
+**Realistic Ragdoll Force**
+Bodies are less likely to fly away upon death.
+**Realistic Ragdoll Force - Reduced Explosion Force**
+Bodies are less likely to fly away due to an explosion.
+**Raw Input - The Ultimate Mouse Sensitivity Fix**
+Fixes mouse sensitivity and acceleration.
+**High FPS Physics Fix**
+Uncaps the framerate without breaking in-game physics.
+**Vats over there - Increased V.A.T.S Distance**
+Allows players to target enemies in VATS from a greater distance.
+**LevelUpMenuEx**
+Permits easier changes to the Perks menus by mods.
+**PipboyTabs**
+Permits easier changes to the Pipboy tabs by mods.
+**Extended Dialogue Interface**
+Removes hard-coded engine limitations for dialogue options. 
+**DEF_UI Iconlibs Rescaled and Fixed - Colored**
+Permits usage of colored icons for items.
+**FallUI**
+Improves all inventory interfaces.
+**FallUI - HUD**
+Allows players to customize their HUD using the MCM.
+**FallUI - Workbench**
+Improves the workbench interface.
+**FallUI - Confirm Boxes**
+Improves the confirmation boxes.
+**FallUI - Map**
+Improves and adds a lot of functionality to the Pipboy map.
+**DavesMods - In Game ESP Explorer Maintenance**
+Provides an easy way to add custom items to the player inventory for debugging purposes.
+**Wasteland Illumination Shadow Version**
+Adds a lot of pretty dynamic lights to the Wasteland, but it also carries a penalty to graphical performance.
+**Boat to Spectacle Island**
+**Nina's Proper Pipe Guns Replacer**
+**2287 - Billboards and Posters - Decadent version**
+Replaces the vanilla billboards and posters with immersive new ones.
+**Ultra Interior Lighting**
+**More Where That Came From - Diamond City Radio Edition**
+More tracks for Diamond City Radio.
+**Travis Begone**
+Removes Travis from Diamond City Radio.
+**Atomic Radio**
+Adds a new radio station.
+**VHF Repeater Realistic Ham Radio Replacer and Pip Boy Radio**
+Adds a new radio station.
+**Project Reality Footsteps**
+Adds footstep and gear sounds when the player is moving.
+**Barefoot Footstep Extended**
+Adds footstep sounds when the player is moving but has no armor, which was not included with Project Reality Footsteps.
+**Scavver's Toolbox**
+Allows the player to break down junk into materials anywhere.
+**Campsite - Simple Wasteland Camping**
+Allows the player to sleep and save anywhere (if they are willing to craft and carry a sleeping bag).
+**Far Harbor Trap Overhaul**
+Makes traps more useful.
+**Grab and Eat All-in-One**
+Permits useful interactions with in-game objects: read note, equip weapon, eat/drink.
+**NPCs Travel**
+Adds NPCs which travel the world for immersion purposes. 
+**Crossbows of the Commonwealth**
+Adds a crossbow weapon.
+**Unequip Pipboy**
+Allows players to equip/unequip their Pipboy.
+**Crafting Highlight Fix**
+**Jump Grunt**
+**Stimpaks help you breathe**
+Adds a small gasp when players inject a Stimpak.
+**Death effects Removed**
+Removes the intense blur applied upon death.
+**Screen Blur Removal - Low Health Only**
+Removes the intense blur applied when the player's health is low, but still keeps the blur applied if their head is crippled.
+**Real Time Death (No Slow mo) - 20 seconds**
+Gives the player a sad moment to reflect on their most recent death.
+**Smokeable Cigars - Cigarettes - Joints - With HardCore Auto Save**
+Allows the player to save anywhere (if they are willing to use an addictive drug).
+**Less Cigarette and Cigar Loot**
+Reduces the vast amounts of nicotine which can be looted in the world.
+**LooksMenu**
+Improves the character creation interface.
+**Winter Main Menu Animated - For snowy and frosty players - Menu 2**
+**FROST Survival Simulator**
+**FROST Sanity Tab**
+Adds a tab to the Pipboy for checking your current sanity level.
+**FROST - Workshop DLC Patch**
+**Realistic melee range and killmove (Frost supported)**
+Makes melee combat feel better by adjusting melee weapon ranges to be more intuitive.
+**Alternative Farming for FROST**
+Makes farming of food crops in settlements possible in FROST.
+**FROST Unofficial Updates**
+**FROST - Nuka World AddOn**
+**FROST - Nuka World AddOn - Performance Patch**
+**Freeze Intimidation Overhaul**
+Makes intimidation of enemies more viable in FROST.
+**FROST Better Crossbow Weapon Patch**
+**FROST Survival Kit**
+Allows players to craft useful items like a Leg Splint anywhere. 
+**FROST - Accessible ArcJet**
+**Alliance and Federation Fatigues retexture**
+**FROST Downtown Linked Workbenches**
+**Frost Downtown Monohome**
+Adds a player home to Downtown. If the radio is too much, open the console, select it, and use the "disable" command.
+**Frost Plus v0.4.5 (WIP)**
+**Frost Plus v0.4.5 (WIP) - Battlecoat Fix**
+**Frost Plus v0.4.5 (WIP) - Bottleback**
+Returns bottles to the player when crafting boiled water.
+**Frost Plus v0.4.5 (WIP) - Lootable Cars**
+**FROST - More Starting Locations**
+**FROST - Eleanor Restored as Vendor**
+**FROST - It Snowed - Winter Textures**
+**FROST - Snowy Weathers**
+**FROST - Dark Calling - Supermutant Locations Overhaul**
+**FROST - Hunkered Down - Commonwealth Overhaul**
+**Frost - Dogmeat resurrected**
+Adds the option of recruiting an immortal canine companion who helps the player stay sane, making FROST easier. 
+**See-Through-Scopes**
+Improves vanilla weapon scopes.
+**Patch - FROST and See Through Scopes (Replacer Version)**
+**FROST - Unofficial Boston FPS Fix**
+**Satellite World Map**
+Improves the Pipboy map of the Commonwealth.
+**Far Harbor Satellite Map**
+**Nuka-World Satellite Map**
+**FROST - Interior Cell Fixes**
+**FROST - Interior Cell Fixes - Ultra Interior Lighting Patch**
+**FROST - Interior Cell Fixes - FROST Plus Patch**
+**Ruddy88's Simple Sorter**
+This ESP is not required and therefore disabled, but I am including it just in case someone wants to generate their own item sorting list using Complex Sorter.
+**FROST Fast - Complex Sorter List**
+This is a Complex Sorter list generated specifically for the FROST-Fast modlist.
 
 ## FAQ
 
