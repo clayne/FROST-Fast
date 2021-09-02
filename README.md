@@ -517,7 +517,7 @@ This is a Complex Sorter list generated specifically for the FROST Fast modlist.
 
 **Why is the NPCs Travel mod disabled by default?**
 
-It requires too many steps for a first-time player to configure properly. It is a good and immersive mod for FROST though, so I am keeping it in the modlist for players who want a little more.
+It requires a lot of steps for a first-time player to configure properly. With that said, it is a good and immersive mod for FROST. As such, I am keeping it in the modlist for players who want a little more.
 
 **Why is the R88 Simple Sorter mod disabled by default?**
 
