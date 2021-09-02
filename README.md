@@ -30,6 +30,8 @@
 
 # Preamble
 
+![FROST Fast Cover](FROST Fast Cover.jpg)
+
 **FROST Fast** is a Wabbajack modlist for Fallout 4.
 
 The modlist revolves around [FROST](https://www.nexusmods.com/fallout4/mods/18898), a total conversion mod which replaces vanilla quests and NPCs to create a more freeform survival experience. There is new lore, new enemies, and new gameplay systems. Your only goal in FROST is to survive... good luck!
