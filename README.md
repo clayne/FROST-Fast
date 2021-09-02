@@ -541,8 +541,6 @@ All credit and thanks go to the Fallout 4 modding and Wabbajack development comm
 
 Bug reports and feature requests should go into the [Github issues tracker](https://github.com/interworlder/FROST-Fast/issues) for **FROST Fast**.
 
-You can also find me on Nexus Mods: [Click here to see my profile.](https://www.nexusmods.com/users/977301)
-
 ## Changelog
 
 **v1.0.0**
