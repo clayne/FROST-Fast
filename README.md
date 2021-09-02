@@ -533,12 +533,16 @@ Next, follow all of the steps in the [Clean Fallout 4](#clean-fallout-4) section
 
 ## Credits and Thanks
 
-lorem ipsum yo
+All credit and thanks go to the Fallout 4 modding and Wabbajack development communities.
 
 ## Contact
 
-lorem ipsum yo
+Bug reports and feature requests should go into the [Github issues tracker](https://github.com/interworlder/FROST-Fast/issues) for **FROST Fast**.
+
+You can also find me on Nexus Mods: [Click here to see my profile.](https://www.nexusmods.com/users/977301)
 
 ## Changelog
 
-lorem ipsum yo
+**v1.0.0**
+
+This is the first public release!
