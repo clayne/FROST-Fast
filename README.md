@@ -119,13 +119,11 @@ The process of downloading and installing mods can take a very long time dependi
 
 ### Errors in Wabbajack
 
-Do not panic! Run Wabbajack again by following the above "Install the mods" steps again.
+If you see errors, run Wabbajack again by following the above "Install the mods" steps again. Wabbajack will safely continue where it left off, and it will automatically re-try any mod downloads which failed.
 
-Wabbajack will safely continue where it left off.
+#### Wabbajack could not find my game folder
 
-### Wabbajack could not find my game folder
-
-Wabbajack will not work with any pirated versions of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) steps.
+Wabbajack will not work with pirated versions of the game. You must buy the game to use this tool.
 
 ## Post-Installation
 
