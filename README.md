@@ -129,7 +129,7 @@ If you see errors, run Wabbajack again by following the above "Install the mods"
 
 #### Wabbajack could not find my game folder
 
-Wabbajack will not work with pirated versions of the game. You must buy the game to use this tool.
+Wabbajack will not work with pirated versions of the game. If you own a legitimate copy of the game, start over from the beginning of [Installation](#installation).
 
 ## Post-Installation
 
