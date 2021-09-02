@@ -38,9 +38,9 @@ This modlist incorporates many fixes, quality-of-life mods, and a few immersion-
 
 # Installation
 
-These steps will guide you through installing FROST-Fast for the first time.
+These steps will guide you through installing **FROST Fast** for the first time.
 
-If you need to update an existing version of FROST-Fast, then please jump straight to [Updating](#updating).
+If you need to update an existing version of **FROST Fast**, then please jump straight to [Updating](#updating).
 
 ## Install Microsoft Visual C++ Redistributable Package
 
@@ -107,7 +107,7 @@ Place the _Wabbajack.exe_ file in a new folder, e.g. C:\Wabbajack.
 
 ### Download the modlist
 
-Download the latest release of **FROST Fast** from [Github](https://github.com/interworlder/FROST-Fast/releases). For your convenience, [here is the direct download link](https://github.com/interworlder/FROST-Fast/releases/download/v0.2.0/FROST.Fast.wabbajack). Feel free to save it in the same directory, e.g. C:\Wabbajack.
+Download the latest release of **FROST Fast** from [Github](https://github.com/interworlder//releases). For your convenience, [here is the direct download link](https://github.com/interworlder/FROST-Fast/releases/download/v0.2.0/FROST.Fast.wabbajack). Feel free to save it in the same directory, e.g. C:\Wabbajack.
 
 ### Install the modlist
 
@@ -452,7 +452,7 @@ This ESP is not required and therefore disabled, but I am including it just in c
 
 **FROST Fast - Complex Sorter List**
 
-This is a Complex Sorter list generated specifically for the FROST-Fast modlist.
+This is a Complex Sorter list generated specifically for the FROST Fast modlist.
 
 </details>
 
