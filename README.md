@@ -1,4 +1,4 @@
-# FROST-Fast
+# FROST Fast
 
 - [Preamble](#preamble)
 - [Installation](#installation)
@@ -12,7 +12,7 @@
   - [Start Fallout 4](#start-fallout-4)
   - [Using Wabbajack](#using-wabbajack)
     - [Download Wabbajack](#download-wabbajack)
-    - [Install the mods](#install-the-mods)
+    - [Install the modlist](#install-the-modlist)
     - [Errors in Wabbajack](#errors-in-wabbajack)
       - [Wabbajack could not find my game folder](#wabbajack-could-not-find-my-game-folder)
   - [Post-Installation](#post-installation)
@@ -30,7 +30,7 @@
 
 # Preamble
 
-FROST-Fast is a Wabbajack modlist for Fallout 4.
+**FROST Fast** is a Wabbajack modlist for Fallout 4.
 
 The modlist revolves around [FROST](https://www.nexusmods.com/fallout4/mods/18898), a total conversion mod which replaces vanilla quests and NPCs to create a more freeform survival experience. There is new lore, new enemies, and new gameplay systems. Your only goal in FROST is to survive... good luck!
 
@@ -105,9 +105,13 @@ Download the latest release of Wabbajack from [here](https://github.com/wabbajac
 
 Place the _Wabbajack.exe_ file in a new folder, e.g. C:\Wabbajack.
 
-### Install the mods
+### Download the modlist
 
-The process of downloading and installing mods can take a very long time depending on your system specs and connection speed! Try to be patient.
+Download the latest release of **FROST Fast** from [Github](https://github.com/interworlder/FROST-Fast/releases). For your convenience, [here is the direct download link](https://github.com/interworlder/FROST-Fast/releases/download/v0.2.0/FROST.Fast.wabbajack). Feel free to save it in the same directory, e.g. C:\Wabbajack.
+
+### Install the modlist
+
+Keep in mind that downloading and installing the full modlist can take a very long time (depending on your system specs and connection speed).
 
 1. Run Wabbajack.exe
 2. Click on _Install From Disk_ and open the file _FROST-Fast.wabbajack_
