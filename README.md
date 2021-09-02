@@ -351,7 +351,7 @@ Permits useful interactions with in-game objects: read note, equip weapon, eat/d
 
 **NPCs Travel**
 
-Adds NPCs which travel the world for immersion purposes. 
+Adds NPCs which travel the world for immersion purposes. Disabled by default, but can be enabled by the player if they want to configure the in-game holotape settings.
 
 **Crossbows of the Commonwealth**
 
@@ -513,7 +513,13 @@ This is a Complex Sorter list generated specifically for the FROST Fast modlist.
 
 ## FAQ
 
-lorem ipsum yo
+**Why is the NPCs Travel mod disabled by default?**
+
+It requires too many steps for a first-time player to configure properly. It is a good and immersive mod for FROST though, so I am keeping it in the modlist for players who want a little more.
+
+**Why is the R88 Simple Sorter mod disabled by default?**
+
+This ESP is not required and therefore disabled, but I am including it just in case someone wants to generate their own item sorting list using Complex Sorter.
 
 ## Removing the Modlist
 
