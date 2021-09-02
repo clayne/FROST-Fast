@@ -144,11 +144,61 @@ Your game folder should be C:\Program Files (x86)\Steam\steamapps\common\Fallout
 
 ### Edit INI files
 
-lorem ipsum yo
+Go to your game's save/config folder, which should be C:\Users\yourname\Documents\My Games\Fallout4 by default.
+
+Open Fallout4Prefs.ini and add these lines under \[Display\]:
+
+```
+uPipboyTargetHeight=1400
+uPipboyTargetWidth=1752
+fPipboyScreenEmitIntensityPA=1.25
+fPipboyScreenDiffuseIntensityPA=0.15
+```
+
+In the same file, Fallout4Prefs.ini, add this line under \[Pipboy\]:
+
+```
+bPipboyDisableFX=1
+```
+
+Save your changes to Fallout4Prefs.ini.
+
+Open Fallout4.ini, and add this line under \[General\]:
+
+```
+sStartingConsoleCommand=cl off
+```
+
+In the same file, Fallout4.ini, add this line under \[Archive\]:
+```
+bInvalidateOlderFiles=1
+```
+
+And make sure this entry under \[Archive\] is blank, like so:
+```
+sResourceDataDirsFinal=
+```
+
+Save your changes to Fallout4.ini.
 
 ## Starting FROST for the First Time
 
-lorem ipsum yo
+Go to C:\FROST-Fast\Install and run ModOrganizer.exe.
+
+At the top-right, F4SE should be selected already. Click Run.
+
+From the main menu, go to Settings > Gameplay. _New Game Difficulty_ must be set as _Survival_.
+
+This is also a good time to adjust your HUD and Pipboy colors. Go to Settings > Display. I like to use white, so I max out all of these sliders:
+
+* HUD Color R
+* HUD Color G
+* HUD Color B
+* Pip-Boy Color R
+* Pip-Boy Color G
+* Pip-Boy Color B
+
+Go back to the main menu, and click _New_ to start a new game!
 
 ### MCM Configuration
 
