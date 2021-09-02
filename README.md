@@ -2,30 +2,30 @@
 
 - [Preamble](#preamble)
 - [Installation](#installation)
-  - [Pre-Installation](#pre-installation)
-    - [Install Microsoft Visual C++ Redistributable Package](#install-microsoft-visual-c-redistributable-package)
-    - [Steam Config](#steam-config)
-      - [Disable the Steam Overlay](#disable-the-steam-overlay)
-      - [Disable the Steam Cloud](#disable-the-steam-cloud)
-      - [Change Steam's update behavior](#change-steams-update-behavior)
-      - [Set the game language to English](#set-the-game-language-to-english)
-    - [Clean Fallout 4](#clean-fallout-4)
-    - [Start Fallout 4](#start-fallout-4)
+  - [Install Microsoft Visual C++ Redistributable Package](#install-microsoft-visual-c-redistributable-package)
+  - [Steam Config](#steam-config)
+    - [Disable the Steam Overlay](#disable-the-steam-overlay)
+    - [Disable the Steam Cloud](#disable-the-steam-cloud)
+    - [Change Steam's update behavior](#change-steams-update-behavior)
+    - [Set the game language to English](#set-the-game-language-to-english)
+  - [Clean Fallout 4](#clean-fallout-4)
+  - [Start Fallout 4](#start-fallout-4)
   - [Using Wabbajack](#using-wabbajack)
-    - [Preparations](#preparations)
-    - [Downloading and Installing](#downloading-and-installing)
-      - [Problems with Wabbajack](#problems-with-wabbajack)
+    - [Download Wabbajack](#download-wabbajack)
+    - [Install the mods](#install-the-mods)
+    - [Errors in Wabbajack](#errors-in-wabbajack)
+      - [Wabbajack could not find my game folder](#wabbajack-could-not-find-my-game-folder)
   - [Post-Installation](#post-installation)
     - [Copy Game Folder Files](#copy-game-folder-files)
+    - [Edit INI files](#edit-ini-files)
+- [Starting FROST for the First Time](#starting-frost-for-the-first-time)
+  - [MCM Configuration](#mcm-configuration)
 - [Updating](#updating)
-- [Noteworthy Mods](#noteworthy-mods)
-  - [placeholder](#placeholder)
-- [Creating your Character](#creating-your-character)
+- [Included Mods](#included-mods)
 - [FAQ](#faq)
 - [Removing the Modlist](#removing-the-modlist)
 - [Credits and Thanks](#credits-and-thanks)
 - [Contact](#contact)
-- [Contributing](#contributing)
 - [Changelog](#changelog)
 
 # Preamble
@@ -139,7 +139,7 @@ Your game folder should be C:\Program Files (x86)\Steam\steamapps\common\Fallout
 
 lorem ipsum yo
 
-## Starting FROST for the first time
+## Starting FROST for the First Time
 
 lorem ipsum yo
 
@@ -157,7 +157,7 @@ This means that any additional mods you have installed will be deleted. Your dow
 
 Updating through Wabbajack is similar to installing. Select the Installation Location and Download Location again, but make sure you tick the checkbox _Overwrite Installation_.
 
-## Mods included in the FROST-Fast modlist
+## Included Mods
 
 ### placeholder
 
@@ -167,7 +167,7 @@ lorem ipsum yo
 
 lorem ipsum yo
 
-## Removing the modlist
+## Removing the Modlist
 
 lorem ipsum yo
 
