@@ -157,6 +157,9 @@ Ready to update? Updating with Wabbajack is similar to the first-time installati
 
 ## Included Mods
 
+<details>
+  <summary>Click to expand!</summary>
+
 **Fallout 4 Script Extender (F4SE)**
 
 Extends scripting functionality in Fallout 4.
@@ -430,6 +433,8 @@ This ESP is not required and therefore disabled, but I am including it just in c
 **FROST Fast - Complex Sorter List**
 
 This is a Complex Sorter list generated specifically for the FROST-Fast modlist.
+
+</details>
 
 ## FAQ
 
