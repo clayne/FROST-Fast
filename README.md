@@ -202,9 +202,9 @@ Go back to the main menu, and click _New_ to start a new game!
 
 ### MCM Configuration
 
-There are several mods in this modlist which have MCM settings, but it is not strictly necessary for a first-time player to edit those settings.
+It is not required for a first-time player to change any MCM settings! You can just play the game.
 
-If you feel ready, then you can hit _ESC_ in-game and click _Mod Config_ to explore those settings on your own.
+However, please feel free to explore those settings on your own. Simply hit _ESC_ in-game and click _Mod Config_.
 
 ## Updating
 
@@ -517,7 +517,7 @@ This is a Complex Sorter list generated specifically for the FROST Fast modlist.
 
 **Why is the NPCs Travel mod disabled by default?**
 
-It requires a lot of steps for a first-time player to configure properly. With that said, it is a good and immersive mod for FROST. As such, I am keeping it in the modlist for players who want a little more.
+It requires a lot of steps for a first-time player to configure properly. (Find a Chemistry Table, craft the holotape, open the holotape, select Minutemen, etc.) With that said, it is a good and immersive mod for FROST. As such, I am keeping it in the modlist for players who want a little more.
 
 **Why is the R88 Simple Sorter mod disabled by default?**
 
