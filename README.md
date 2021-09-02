@@ -36,7 +36,7 @@
 
 The modlist revolves around [FROST](https://www.nexusmods.com/fallout4/mods/18898), a total conversion mod which replaces vanilla quests and NPCs to create a more freeform survival experience. There is new lore, new enemies, and new gameplay systems. Your only goal in FROST is to survive... good luck!
 
-This modlist incorporates many fixes, quality-of-life mods, and a few immersion-related changes.
+This modlist incorporates fixes, quality-of-life mods, and immersion-related changes.
 
 # Installation
 
