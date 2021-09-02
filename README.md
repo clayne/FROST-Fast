@@ -296,7 +296,15 @@ Adds NPCs which travel the world for immersion purposes.
 
 **Crossbows of the Commonwealth**
 
-Adds a crossbow weapon.
+**Wattz Laser Gun**
+
+**Fallout 3 10mm SMG**
+
+**Fire Axe - A Standalone Melee Weapon**
+
+**Murdering Chainsaw**
+
+**Service Rifle**
 
 **Unequip Pipboy**
 
@@ -307,8 +315,6 @@ Allows players to equip/unequip their Pipboy.
 **Jump Grunt**
 
 **Stimpaks help you breathe**
-
-Adds a small gasp when players inject a Stimpak.
 
 **Death effects Removed**
 
@@ -363,6 +369,16 @@ Makes farming of food crops in settlements possible in FROST.
 Makes intimidation of enemies more viable in FROST.
 
 **FROST Better Crossbow Weapon Patch**
+
+**FROST Wattz Laser Rifle Patch**
+
+**FROST - Fallout 3 10mm SMG Patch**
+
+**FROST - Fire Axe Patch**
+
+**FROST - Murdering Chainsaw Patch**
+
+**FROST - Service Rifle Patch and Replacer**
 
 **FROST Survival Kit**
 
