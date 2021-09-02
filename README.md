@@ -202,11 +202,13 @@ Go back to the main menu, and click _New_ to start a new game!
 
 ### MCM Configuration
 
-lorem ipsum yo
+There are several mods in this modlist which have MCM settings, but it is not strictly necessary for a first-time player to edit those settings.
+
+If you feel ready, then you can hit _ESC_ in-game and click _Mod Config_ to explore those settings on your own.
 
 ## Updating
 
-If this modlist has been updated, please read the [Changelog](#changelog) before doing anything else.
+Please review the [Changelog](#changelog) before doing anything else.
 
 Backup your saves, but keep in mind that saves are often incompatible with a new version. Starting a new game is the safest option after updating.
 
