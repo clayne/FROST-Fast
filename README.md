@@ -155,7 +155,7 @@ fPipboyScreenEmitIntensityPA=1.25
 fPipboyScreenDiffuseIntensityPA=0.15
 ```
 
-In the same file, Fallout4Prefs.ini, add this line under \[Pipboy\]:
+Add this line under \[Pipboy\]:
 
 ```
 bPipboyDisableFX=1
@@ -163,13 +163,13 @@ bPipboyDisableFX=1
 
 Save your changes to Fallout4Prefs.ini.
 
-Open Fallout4.ini, and add this line under \[General\]:
+Next... Open Fallout4.ini, and add this line under \[General\]:
 
 ```
 sStartingConsoleCommand=cl off
 ```
 
-In the same file, Fallout4.ini, add this line under \[Archive\]:
+Add this line under \[Archive\]:
 ```
 bInvalidateOlderFiles=1
 ```
