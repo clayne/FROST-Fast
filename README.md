@@ -30,7 +30,7 @@
 
 # Preamble
 
-![FROST Fast Cover](https://github.com/interworlder/FROST-Fast/blob/main/FROST%20Fast%20Cover.jpg)
+![FROST Fast Cover](https://github.com/interworlder/FROST-Fast/blob/main/Cover.jpg)
 
 **FROST Fast** is a Wabbajack modlist for Fallout 4.
 
