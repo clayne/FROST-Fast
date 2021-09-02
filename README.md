@@ -1,7 +1,7 @@
 # FROST Fast
 
 **Latest Release:**
-v0.2.1 (9/2/2021)
+v1.0.0 (9/2/2021)
 
 - [Preamble](#preamble)
 - [Installation](#installation)
@@ -112,7 +112,7 @@ Place the _Wabbajack.exe_ file in a new folder, e.g. C:\Wabbajack.
 
 ### Download the modlist
 
-Download the latest release of **FROST Fast** from [Github](https://github.com/interworlder//releases). For your convenience, [here is the direct download link](https://github.com/interworlder/FROST-Fast/releases/download/v0.2.1/FROST.Fast.wabbajack). You can save it in the same folder as Wabbajack, e.g. C:\Wabbajack.
+Download the latest release of **FROST Fast** from [Github](https://github.com/interworlder/FROST-Fast/releases). For your convenience, [here is the direct download link](https://github.com/interworlder/FROST-Fast/releases/download/v1.0.0/FROST.Fast.wabbajack). You can save it in the same folder as Wabbajack, e.g. C:\Wabbajack.
 
 ### Install the modlist
 
