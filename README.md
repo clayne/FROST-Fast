@@ -1,7 +1,7 @@
 # FROST Fast
 
 **Latest Release:**
-v1.0.0 (9/2/2021)
+v1.1.0 (9/20/2021)
 
 - [Preamble](#preamble)
 - [Installation](#installation)
@@ -24,7 +24,7 @@ v1.0.0 (9/2/2021)
 - [Starting FROST for the First Time](#starting-frost-for-the-first-time)
   - [MCM Configuration](#mcm-configuration)
 - [Updating](#updating)
-- [Included Mods](#included-mods)
+- [Notable Mods](#notable-mods)
 - [FAQ](#faq)
 - [Removing the Modlist](#removing-the-modlist)
 - [Credits and Thanks](#credits-and-thanks)
@@ -112,7 +112,7 @@ Place the _Wabbajack.exe_ file in a new folder, e.g. C:\Wabbajack.
 
 ### Download the modlist
 
-Download the latest release of **FROST Fast** from [Github](https://github.com/interworlder/FROST-Fast/releases). For your convenience, [here is the direct download link](https://github.com/interworlder/FROST-Fast/releases/download/v1.0.0/FROST.Fast.wabbajack). You can save it in the same folder as Wabbajack, e.g. C:\Wabbajack.
+Download the latest release of **FROST Fast** from [Github](https://github.com/interworlder/FROST-Fast/releases). For your convenience, [here is the direct download link](https://github.com/interworlder/FROST-Fast/releases/download/v1.1.0/FROST.Fast.wabbajack). You can save it in the same folder as Wabbajack, e.g. C:\Wabbajack.
 
 ### Install the modlist
 
@@ -202,9 +202,11 @@ Go back to the main menu, and click _New_ to start a new game!
 
 ### MCM Configuration
 
-It is not required for a first-time player to change any MCM settings! You can just play the game.
+MCM configuration should be optional, but feel free to check out your mod options.
 
-However, please feel free to explore those settings on your own. Simply hit _ESC_ in-game and click _Mod Config_.
+Hit _ESC_ and click _Mod Config_ once you are in-game and finished with character setup.
+
+You may also find some settings holotapes in your inventory and/or craftable at a Chemistry Table. Again, check them out if you like! However, this is optional.
 
 ## Updating
 
@@ -216,7 +218,7 @@ Backup your saves, but keep in mind that saves are often incompatible with a new
 
 Ready to update? Updating with Wabbajack is similar to the first-time installation. Select your Installation and Download Locations again, but make sure to tick the checkbox _Overwrite Installation_. Click the Go/Start button, and wait for Wabbajack to finish.
 
-## Included Mods
+## Notable Mods
 
 <details>
   <summary>Click to expand!</summary>
@@ -236,14 +238,6 @@ Fixes engine bugs and adds a crash logger.
 **FO4 Photo Mode**
 
 Allows players to access an advanced screenshot tool.
-
-**Realistic Ragdoll Force**
-
-Bodies are less likely to fly away upon death.
-
-**Realistic Ragdoll Force - Reduced Explosion Force**
-
-Bodies are less likely to fly away due to an explosion.
 
 **Raw Input - The Ultimate Mouse Sensitivity Fix**
 
@@ -268,6 +262,14 @@ Permits easier changes to the Pipboy tabs by mods.
 **Extended Dialogue Interface**
 
 Removes hard-coded engine limitations for dialogue options. 
+
+**Silent UI**
+
+Disables quest and XP-related sound effects. Disables faction music. Disables perk activation sounds. Disables battle music and player death music.
+
+**Immersive HUD - iHUD**
+
+Allows hiding of HUD elements using context-sensitive logic.
 
 **DEF_UI Iconlibs Rescaled and Fixed - Colored**
 
@@ -301,39 +303,11 @@ Provides an easy way to add custom items to the player inventory for debugging p
 
 Adds a lot of pretty dynamic lights to the Wasteland, but it also carries a penalty to graphical performance.
 
-**Boat to Spectacle Island**
-
-**Nina's Proper Pipe Guns Replacer**
-
-**2287 - Billboards and Posters - Decadent version**
-
-Replaces the vanilla billboards and posters with immersive new ones.
-
 **Ultra Interior Lighting**
 
-**More Where That Came From - Diamond City Radio Edition**
-
-More tracks for Diamond City Radio.
-
-**Travis Begone**
-
-Removes Travis from Diamond City Radio.
-
-**Atomic Radio**
-
-Adds a new radio station.
-
-**VHF Repeater Realistic Ham Radio Replacer and Pip Boy Radio**
-
-Adds a new radio station.
-
-**Project Reality Footsteps**
+**Project Reality Footsteps (Snow Edition)**
 
 Adds footstep and gear sounds when the player is moving.
-
-**Barefoot Footstep Extended**
-
-Adds footstep sounds when the player is moving but has no armor, which was not included with Project Reality Footsteps.
 
 **Scavver's Toolbox**
 
@@ -353,19 +327,7 @@ Permits useful interactions with in-game objects: read note, equip weapon, eat/d
 
 **NPCs Travel**
 
-Adds NPCs which travel the world for immersion purposes. Disabled by default, but can be enabled by the player if they want to configure the in-game holotape settings.
-
-**Crossbows of the Commonwealth**
-
-**Wattz Laser Gun**
-
-**Fallout 3 10mm SMG**
-
-**Fire Axe - A Standalone Melee Weapon**
-
-**Murdering Chainsaw**
-
-**Service Rifle**
+Adds NPCs which travel the world for extra immersion and emergent gameplay.
 
 **Unequip Pipboy**
 
@@ -373,21 +335,17 @@ Allows players to equip/unequip their Pipboy.
 
 **Crafting Highlight Fix**
 
-**Jump Grunt**
-
-**Stimpaks help you breathe**
-
 **Death effects Removed**
 
 Removes the intense blur applied upon death.
 
 **Screen Blur Removal - Low Health Only**
 
-Removes the intense blur applied when the player's health is low, but still keeps the blur applied if their head is crippled.
+Removes the intense blur applied when the player's health is low, but keeps the blur when the player's head is crippled.
 
 **Real Time Death (No Slow mo) - 20 seconds**
 
-Gives the player a sad moment to reflect on their most recent death.
+Gives the player a sad (or hilarious) moment to reflect on their most recent death.
 
 **Smokeable Cigars - Cigarettes - Joints - With HardCore Auto Save**
 
@@ -395,13 +353,11 @@ Allows the player to save anywhere (if they are willing to use an addictive drug
 
 **Less Cigarette and Cigar Loot**
 
-Reduces the vast amounts of nicotine which can be looted in the world.
+Reduces the amount of nicotine which can be looted in the world.
 
 **LooksMenu**
 
 Improves the character creation interface.
-
-**Winter Main Menu Animated - For snowy and frosty players - Menu 2**
 
 **FROST Survival Simulator**
 
@@ -427,23 +383,9 @@ Makes farming of food crops in settlements possible in FROST.
 
 **Freeze Intimidation Overhaul**
 
-Makes intimidation of enemies more viable in FROST.
-
-**FROST Better Crossbow Weapon Patch**
-
-**FROST Wattz Laser Rifle Patch**
-
-**FROST - Fallout 3 10mm SMG Patch**
-
-**FROST - Fire Axe Patch**
-
-**FROST - Murdering Chainsaw Patch**
-
-**FROST - Service Rifle Patch and Replacer**
-
 **FROST Survival Kit**
 
-Allows players to craft useful items like a Leg Splint anywhere. 
+Allows players to craft useful items like a Leg Splint anywhere.
 
 **FROST - Accessible ArcJet**
 
@@ -479,19 +421,15 @@ Returns bottles to the player when crafting boiled water.
 
 **Frost - Dogmeat resurrected**
 
-Adds the option of recruiting an immortal canine companion who helps the player stay sane, making FROST easier. 
+Adds the option of recruiting a canine companion. Makes FROST easier because the dog cannot be killed, alerts on nearby enemies, and adds sanity... but it is optional. 
 
 **See-Through-Scopes**
-
-Improves vanilla weapon scopes.
 
 **Patch - FROST and See Through Scopes (Replacer Version)**
 
 **FROST - Unofficial Boston FPS Fix**
 
 **Satellite World Map**
-
-Improves the Pipboy map of the Commonwealth.
 
 **Far Harbor Satellite Map**
 
@@ -510,6 +448,12 @@ This ESP is not required and therefore disabled, but I am including it just in c
 **FROST Fast - Complex Sorter List**
 
 This is a Complex Sorter list generated specifically for the FROST Fast modlist.
+
+
+
+
+
+
 
 </details>
 
@@ -543,6 +487,14 @@ Bug reports and feature requests should go into the [Github issues tracker](http
 
 ## Changelog
 
+**v1.1.0**
+
+* Added Silent UI to disable intrusive sound effects and music.
+* Added Immersive HUD - iHUD to allow hiding of HUD elements using context-sensitive logic.
+* Reconfigured Project Reality Footsteps so it is using the FROST-appropriate 1.6 Snow Edition.
+* Removed Barefoot Footstep Extended because its low bitrate samples can be grating for players with headphones.
+* Other notes: The readme now shows Notable Mods instead of a full list of Included Mods for ease of documentation. The list will be shortened further over time.
+
 **v1.0.0**
 
-This is the first public release!
+* This is the first public release!
