@@ -1,7 +1,7 @@
 # FROST Fast
 
 **Latest Release:**
-v1.2.1 (10/1/2021)
+v1.3.0 (10/2/2021)
 
 - [Preamble](#preamble)
 - [Installation](#installation)
@@ -23,6 +23,7 @@ v1.2.1 (10/1/2021)
     - [Edit INI files](#edit-ini-files)
 - [Starting FROST for the First Time](#starting-frost-for-the-first-time)
   - [MCM Configuration](#mcm-configuration)
+  - [Holotape Configuration](#holotape-configuration)
 - [Updating](#updating)
 - [Notable Mods](#notable-mods)
 - [FAQ](#faq)
@@ -114,7 +115,7 @@ Place the _Wabbajack.exe_ file in a new folder, e.g. C:\Wabbajack.
 
 ### Download the modlist
 
-Download the latest release of **FROST Fast** from [Github](https://github.com/interworlder/FROST-Fast/releases). For your convenience, [here is the direct download link](https://github.com/interworlder/FROST-Fast/releases/download/v1.2.1/FROST.Fast.wabbajack). You can save it in the same folder as Wabbajack, e.g. C:\Wabbajack.
+Download the latest release of **FROST Fast** from [Github](https://github.com/interworlder/FROST-Fast/releases). For your convenience, [here is the direct download link](https://github.com/interworlder/FROST-Fast/releases/download/v1.3.0/FROST.Fast.wabbajack). You can save it in the same folder as Wabbajack, e.g. C:\Wabbajack.
 
 ### Install the modlist
 
@@ -214,11 +215,17 @@ Go back to the main menu, and click _New_ to start a new game!
 
 ### MCM Configuration
 
-MCM configuration is optional, but feel free to check out your mod options.
+MCM configuration is optional, but feel free to check out all the options available to you.
 
 When you are in-game and finished with character setup, hit _ESC_ and click _Mod Config_.
 
-You will also find settings holotapes in your inventory or craftable at a Chemistry Table. Again, check them out if you like! However, this is optional.
+### Holotape Configuration
+
+There are also a few settings accessible from the in-game Pip-Boy, which come in the form of holotapes.
+
+They might be in your inventory already OR they might need to be crafted at a Chemistry Table.
+
+NPCs Travel is the only one which *must* be configured. Follow the [step-by-step instructions in this image gallery](https://www.nexusmods.com/fallout4/mods/54830/?tab=images).
 
 ## Updating
 
@@ -449,7 +456,14 @@ Bug reports and feature requests should go into the [Github issues tracker](http
 
 ## Changelog
 
+**v1.3.0**
+
+* Updated FROST Unofficial Updates to use latest version v0.9
+* Updated FROST - Nuka World AddOn to use latest version v1.3
+* Added FROST NPCs Travel compatibility patch
+
 **v1.2.1**
+
 * Removed Unequip Pipboy
 * Removed Pipboy Flashlight and its compatibility patch for Unequip Pipboy
 
