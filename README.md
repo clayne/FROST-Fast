@@ -162,7 +162,7 @@ fPipboyScreenDiffuseIntensityPA=0.15
 Add this line under \[Imagespace\]:
 
 ```
-bLensFlare=0 #disables lens flare effect
+bLensFlare=0
 ```
 
 Add this line under \[Pipboy\]:
