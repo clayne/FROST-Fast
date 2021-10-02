@@ -1,7 +1,7 @@
 # FROST Fast
 
 **Latest Release:**
-v1.2.0 (10/1/2021)
+v1.2.1 (10/1/2021)
 
 - [Preamble](#preamble)
 - [Installation](#installation)
@@ -114,7 +114,7 @@ Place the _Wabbajack.exe_ file in a new folder, e.g. C:\Wabbajack.
 
 ### Download the modlist
 
-Download the latest release of **FROST Fast** from [Github](https://github.com/interworlder/FROST-Fast/releases). For your convenience, [here is the direct download link](https://github.com/interworlder/FROST-Fast/releases/download/v1.2.0/FROST.Fast.wabbajack). You can save it in the same folder as Wabbajack, e.g. C:\Wabbajack.
+Download the latest release of **FROST Fast** from [Github](https://github.com/interworlder/FROST-Fast/releases). For your convenience, [here is the direct download link](https://github.com/interworlder/FROST-Fast/releases/download/v1.2.1/FROST.Fast.wabbajack). You can save it in the same folder as Wabbajack, e.g. C:\Wabbajack.
 
 ### Install the modlist
 
@@ -449,11 +449,15 @@ Bug reports and feature requests should go into the [Github issues tracker](http
 
 ## Changelog
 
+**v1.2.1**
+* Removed Unequip Pipboy
+* Removed Pipboy Flashlight and its compatibility patch for Unequip Pipboy
+
 **v1.2.0**
 
 * Updated FROST Plus to use latest version v0.4.7
 * Updated FROST Interior Cell Fixes to use latest version v2.0
-* Added Pip-Boy Flashlight with a compatibility patch for Unequip Pip-Boy
+* Added Pip-Boy Flashlight with a compatibility patch for Unequip Pipboy
 * Added FROST - Accessible Med-Tek Research
 * Removed Atomic Radio to reduce download size
 * Removed More Where That Came From - Diamond City Radio Edition to reduce download size
