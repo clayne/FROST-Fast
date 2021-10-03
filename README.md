@@ -131,9 +131,9 @@ Keep in mind that downloading and installing the full modlist can take a very lo
 
 ### Errors in Wabbajack
 
-If you run into any errors, your first move should exiting Wabbajack and then following the above "Install the mods" steps again.
+If you run into any errors, your first move should be exiting Wabbajack and following the above steps to "Install the modlist" again.
 
-Wabbajack will safely check its own installation process, pick up where it left off, and automatically re-try any failed mod downloads.
+Wabbajack will safely re-check its own installation, pick up where it left off, and re-try any failed downloads.
 
 #### Wabbajack could not find my game folder
 
