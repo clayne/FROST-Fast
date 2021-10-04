@@ -432,6 +432,10 @@ This is a Complex Sorter list generated specifically for the FROST Fast modlist.
 
 ## FAQ
 
+**Can I add body replacers, skin texture mods, or other cosmetic mods?**
+
+Yes, I recommend putting those mods under the "Player Appearance" separator in Mod Organizer 2. Remember to re-order your plugins list according to the mod list.
+
 **Why is the R88 Simple Sorter mod included?**
 
 This ESP is not technically required, but I have included it in case someone wants to generate their own custom item sorting list using Complex Sorter.
