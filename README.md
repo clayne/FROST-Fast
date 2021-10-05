@@ -1,7 +1,7 @@
 # FROST Fast
 
 **Latest Release:**
-v1.3.1 (10/4/2021)
+v1.3.2 (10/5/2021)
 
 - [Preamble](#preamble)
 - [Installation](#installation)
@@ -115,7 +115,7 @@ Place the _Wabbajack.exe_ file in a new folder, e.g. C:\Wabbajack.
 
 ### Download the modlist
 
-Download the latest release of **FROST Fast** from [Github](https://github.com/interworlder/FROST-Fast/releases). For your convenience, [here is the direct download link](https://github.com/interworlder/FROST-Fast/releases/download/v1.3.1/FROST.Fast.wabbajack). You can save it in the same folder as Wabbajack, e.g. C:\Wabbajack.
+Download the latest release of **FROST Fast** from [Github](https://github.com/interworlder/FROST-Fast/releases). For your convenience, [here is the direct download link](https://github.com/interworlder/FROST-Fast/releases/download/v1.3.2/FROST.Fast.wabbajack). You can save it in the same folder as Wabbajack, e.g. C:\Wabbajack.
 
 ### Install the modlist
 
@@ -434,11 +434,19 @@ This is a Complex Sorter list generated specifically for the FROST Fast modlist.
 
 **Can I add body replacers, skin texture mods, or other cosmetic mods?**
 
-Yes, I recommend putting those mods under the "Player Appearance" separator in Mod Organizer 2. Remember to re-order your plugins list according to the mod list.
+Yes, I recommend putting those mods under the "Player Appearance" separator in Mod Organizer 2. Remember to re-order your plugins (on the right) so they match the mod list (on the left).
 
 **Why is the R88 Simple Sorter mod included?**
 
 This ESP is not technically required, but I have included it in case someone wants to generate their own custom item sorting list using Complex Sorter.
+
+**Why do enemies and mines sometimes disappear after loading a save?**
+
+This is a bug from vanilla Fallout 4 which was unfortunately never fixed by Bethesda. You can get past it by quitting the game to desktop, restarting the game again, and loading the save again. This will ensure that enemies and explosives are correctly respawned.
+
+**Can I add NSFW (Not Safe For Work) mods?**
+
+Yes, I recommend loading those mods above the "FROST" separator in Mod Organizer 2. Remember to re-order your plugins (on the right) so they match the mod list (on the left).
 
 ## Removing the Modlist
 
@@ -460,7 +468,14 @@ Bug reports and feature requests should go into the [Github issues tracker](http
 
 ## Changelog
 
+**v1.3.2**
+
+* Added FROST - Accessible Fort Strong
+* Removed Immersive HUD - iHUD
+* Updated FROST Fast Complex Sorter List to use latest version v1.3.2
+
 **v1.3.1**
+
 * Updated Mod Organizer 2 to use latest version v2.4.2
 * Wabbajack should now point to the correct download location for Mod Organizer 2: Github instead of Nexus
 
