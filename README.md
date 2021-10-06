@@ -1,7 +1,7 @@
 # FROST Fast
 
 **Latest Release:**
-v1.3.2 (10/5/2021)
+v1.3.3 (10/6/2021)
 
 - [Preamble](#preamble)
 - [Installation](#installation)
@@ -115,19 +115,19 @@ Place the _Wabbajack.exe_ file in a new folder, e.g. C:\Wabbajack.
 
 ### Download the modlist
 
-Download the latest release of **FROST Fast** from [Github](https://github.com/interworlder/FROST-Fast/releases). For your convenience, [here is the direct download link](https://github.com/interworlder/FROST-Fast/releases/download/v1.3.2/FROST.Fast.wabbajack). You can save it in the same folder as Wabbajack, e.g. C:\Wabbajack.
+Download the latest release of **FROST Fast** from [Github](https://github.com/interworlder/FROST-Fast/releases). For your convenience, [here is the direct download link](https://github.com/interworlder/FROST-Fast/releases/download/v1.3.3/FROST.Fast.wabbajack). You can save it in the same folder as Wabbajack, e.g. C:\Wabbajack.
 
 ### Install the modlist
 
 Keep in mind that downloading and installing the full modlist can take a very long time (depending on your system specs and connection speed).
 
 1. Run Wabbajack.exe
-2. Click on _Install From Disk_ and open the file _FROST-Fast.wabbajack_
+2. Click on _Install From Disk_ and open the file _FROST Fast.wabbajack_
 3. Set the _Installation Location_, e.g. C:\FROST-Fast\Install
 4. Set the _Download Location_, e.g. C:\FROST-Fast\Download
 5. Click the Start button
 6. Follow any instructions from Wabbajack (sign into NexusMods, click the download buttons, etc.)
-6. Wait for Wabbajack to finish -- this can take a very long time!
+7. Wait for Wabbajack to finish -- this can take a very long time!
 
 ### Errors in Wabbajack
 
@@ -229,13 +229,25 @@ NPCs Travel is the only one which *must* be configured. Follow the [step-by-step
 
 ## Updating
 
-Before doing anything else, please review the [Changelog](#changelog).
+Here are a few things you should know before updating:
 
-Backup your saves, but keep in mind that saves are often incompatible with a new version. Starting a new game is the safest option after updating.
+* Starting a new game is the safest option after an update. Old save files might be incompatible.
+* The Installation Location will be deleted and restored by Wabbajack, so all mods which are not part of this modlist will be removed.
+* The Download Location will NOT be deleted by Wabbajack, so you will only download more content if there has been an addition or update.
 
-**Wabbajack will delete all files that are not part of the modlist when you update!**
+If you want to know what has changed in the latest version, please review the [Changelog](#changelog).
 
-Ready to update? Updating with Wabbajack is very similar to your first-time installation. Select your Installation and Download Locations again, but make sure to tick the checkbox _Overwrite Installation_. Click the Start button, and wait for Wabbajack to finish.
+Otherwise, you can update the modlist by following these steps:
+
+1. Download the latest release of **FROST Fast** from [Github](https://github.com/interworlder/FROST-Fast/releases)
+2. Run Wabbajack.exe
+3. Click on _Install From Disk_ and open the newest version of the file _FROST Fast.wabbajack_
+4. Set the same _Installation Location_, e.g. C:\FROST-Fast\Install
+5. Set the same _Download Location_, e.g. C:\FROST-Fast\Download
+6. Check the box _Overwrite Installation_
+7. Click the Start button
+8. Follow any instructions from Wabbajack (sign into NexusMods, click the download buttons, etc.)
+9. Wait for Wabbajack to finish
 
 ## Notable Mods
 
@@ -467,6 +479,13 @@ All credit and thanks go to the Fallout 4 modding community and the Wabbajack de
 Bug reports and feature requests should go into the [Github issues tracker](https://github.com/interworlder/FROST-Fast/issues) for **FROST Fast**.
 
 ## Changelog
+
+**v1.3.3**
+
+* Added Winter Commonwealth Pines
+* Added FROST - Vanilla Signs Removal
+* Added FROST - Headless Dead Ferals Fix
+* Added FROST - Hunkered Down - Settlements
 
 **v1.3.2**
 
