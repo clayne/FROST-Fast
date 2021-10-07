@@ -448,17 +448,21 @@ This is a Complex Sorter list generated specifically for the FROST Fast modlist.
 
 Yes, I recommend putting those mods under the "Player Appearance" separator in Mod Organizer 2. Remember to re-order your plugins (on the right) so they match the mod list (on the left).
 
-**Why is the R88 Simple Sorter mod included?**
+**Why is the R88 Simple Sorter mod included in the modlist?**
 
 This ESP is not technically required, but I have included it in case someone wants to generate their own custom item sorting list using Complex Sorter.
 
 **Why do enemies and mines sometimes disappear after loading a save?**
 
-This is a bug from vanilla Fallout 4 which was unfortunately never fixed by Bethesda. You can get past it by quitting the game to desktop, restarting the game again, and loading the save again. This will ensure that enemies and explosives are correctly respawned.
+This is a bug from vanilla Fallout 4 which was unfortunately never fixed by Bethesda. You can get past it by quitting the game to desktop, starting the game again, and loading the save. This will ensure that enemies and explosives are respawned correctly.
 
 **Can I add NSFW (Not Safe For Work) mods?**
 
-Yes, I recommend loading those mods above the "FROST" separator in Mod Organizer 2. Remember to re-order your plugins (on the right) so they match the mod list (on the left).
+You can do this on your own, but unfortunately I cannot provide any support for those type of mods.
+
+**Why is the PANPC (Pack Attack NPC) mod excluded from the modlist?**
+
+The current download license for PANPC forbids it from being included in any modpack or automated mod list regime. Sorry! But if you're looking for an even greater challenge in FROST, then you can add the mod yourself (along with its FROST compatibility patch).
 
 ## Removing the Modlist
 
