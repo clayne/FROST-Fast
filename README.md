@@ -1,7 +1,7 @@
 # FROST Fast
 
 **Latest Release:**
-v1.3.3 (10/6/2021)
+v1.4.0 (10/14/2021)
 
 - [Preamble](#preamble)
 - [Installation](#installation)
@@ -115,7 +115,7 @@ Place the _Wabbajack.exe_ file in a new folder, e.g. C:\Wabbajack.
 
 ### Download the modlist
 
-Download the latest release of **FROST Fast** from [Github](https://github.com/interworlder/FROST-Fast/releases). For your convenience, [here is the direct download link](https://github.com/interworlder/FROST-Fast/releases/download/v1.3.3/FROST.Fast.wabbajack). You can save it in the same folder as Wabbajack, e.g. C:\Wabbajack.
+Download the latest release of **FROST Fast** from [Github](https://github.com/interworlder/FROST-Fast/releases). For your convenience, [here is the direct download link](https://github.com/interworlder/FROST-Fast/releases/download/v1.4.0/FROST.Fast.wabbajack). You can save it in the same folder as Wabbajack, e.g. C:\Wabbajack.
 
 ### Install the modlist
 
@@ -256,11 +256,7 @@ Otherwise, you can update the modlist by following these steps:
 
 **Fallout 4 Script Extender (F4SE)**
 
-Extends scripting functionality in Fallout 4.
-
 **Buffout 4**
-
-Fixes engine bugs and adds a crash logger.
 
 **Unofficial Fallout 4 Patch**
 
@@ -268,39 +264,21 @@ Fixes engine bugs and adds a crash logger.
 
 **FO4 Photo Mode**
 
-Allows players to access an advanced screenshot tool.
-
 **Raw Input - The Ultimate Mouse Sensitivity Fix**
-
-Fixes mouse sensitivity and acceleration.
 
 **High FPS Physics Fix**
 
-Uncaps the framerate without breaking in-game physics.
+**Binaural 3D Surround Sound for Headphones - HRTF**
 
 **Vats over there - Increased V.A.T.S Distance**
 
-Allows players to target enemies in VATS from a greater distance.
-
 **LevelUpMenuEx**
 
-Permits easier changes to the Perks menus by mods.
-
-**PipboyTabs**
-
-Permits easier changes to the Pipboy tabs by mods.
-
 **Extended Dialogue Interface**
-
-Removes hard-coded engine limitations for dialogue options. 
 
 **Silent UI**
 
 Disables quest and XP-related sound effects. Disables faction music. Disables perk activation sounds. Disables battle music and player death music.
-
-**Immersive HUD - iHUD**
-
-Allows hiding of HUD elements with context-sensitive logic.
 
 **DEF_UI Iconlibs Rescaled and Fixed - Colored**
 
@@ -314,21 +292,13 @@ Allows hiding of HUD elements with context-sensitive logic.
 
 **FallUI - Map**
 
-**DavesMods - In Game ESP Explorer Maintenance**
-
-Provides an easy way to add custom items to the player inventory for debugging, which is activated by hitting F11.
-
-**Wasteland Illumination Shadow Version**
-
-Adds a lot of pretty dynamic lights to the Wasteland, but it carries a penalty to graphical performance.
-
 **Ultra Interior Lighting**
+
+**Ultra Exterior Lighting**
 
 **Project Reality Footsteps (Snow Edition)**
 
 **Scavver's Toolbox**
-
-Allows the player to break down junk into materials anywhere.
 
 **Campsite - Simple Wasteland Camping**
 
@@ -340,17 +310,13 @@ Allows the player to sleep and save anywhere (if they are willing to craft and c
 
 **NPCs Travel**
 
-**Unequip Pipboy**
+**Remove Low Health Blur**
 
-**Crafting Highlight Fix**
+Removes the blur applied when the player's health is low, but keeps the blur when the player's head is crippled.
 
 **Death effects Removed**
 
 Removes the intense blur applied upon death.
-
-**Screen Blur Removal - Low Health Only**
-
-Removes the intense blur applied when the player's health is low, but keeps the blur when the player's head is crippled.
 
 **Real Time Death (No Slow mo) - 20 seconds**
 
@@ -362,39 +328,23 @@ Allows the player to save anywhere (if they are willing to use an addictive drug
 
 **Less Cigarette and Cigar Loot**
 
+**Fill'em Up Again (Dynamic Bottle Recyclation)**
+
 **LooksMenu**
 
 Improves the character creation interface.
 
 **FROST Survival Simulator**
 
-**FROST Sanity Tab**
-
-Adds a tab to the Pipboy for checking your current sanity level.
-
-**FROST - Workshop DLC Patch**
-
-**Realistic melee range and killmove (Frost supported)**
-
-Makes melee combat feel better by adjusting melee weapon ranges to be more intuitive.
-
 **Alternative Farming for FROST**
-
-Makes farming of food crops in settlements possible in FROST.
 
 **FROST Unofficial Updates**
 
 **FROST - Nuka World AddOn**
 
-**FROST - Nuka World AddOn - Performance Patch**
-
 **Freeze Intimidation Overhaul**
 
 **FROST Survival Kit**
-
-Allows players to craft useful items like a Leg Splint anywhere.
-
-**Alliance and Federation Fatigues retexture**
 
 **FROST Downtown Linked Workbenches**
 
@@ -416,13 +366,9 @@ Adds the option of recruiting a canine companion. Makes FROST easier because the
 
 **See-Through-Scopes**
 
-**FROST - Unofficial Boston FPS Fix**
+**FROST - Exterior Cell Fixes**
 
 **FROST - Interior Cell Fixes**
-
-**FROST - Interior Cell Fixes - Ultra Interior Lighting Patch**
-
-**FROST - Interior Cell Fixes - FROST Plus Patch**
 
 **Ruddy88's Simple Sorter**
 
@@ -437,8 +383,6 @@ This is a Complex Sorter list generated specifically for the FROST Fast modlist.
 **Far Harbor Satellite Map**
 
 **Nuka-World Satellite Map**
-
-**Pip-Boy Flashlight**
 
 </details>
 
@@ -483,6 +427,23 @@ All credit and thanks go to the Fallout 4 modding community and the Wabbajack de
 Bug reports and feature requests should go into the [Github issues tracker](https://github.com/interworlder/FROST-Fast/issues) for **FROST Fast**.
 
 ## Changelog
+
+**v1.4.0**
+
+* **IMPORTANT:** If you are updating FROST Fast to this version, follow the steps in [Updating](#updating) and then follow the steps in [Copy Game Folder Files](#copy-game-folder-files) as well.
+* Fixed file structure and missing files in the Game Folder Files for F4SE and Buffout4
+* Fixed config of See-Through-Scopes to include patches for custom weapons like the Service Rifle
+* Added Ultra Exterior Lighting
+* Added FROST - Exterior Cell Fixes and FPS Boost
+* Added FROST - Exterior Cell Fixes -- Nuka World Patch
+* Added FROST - Exterior Cell Fixes -- Ultra Exterior Lighting Patch
+* Added Fill'em Up Again (Dynamic Bottle Recyclation)
+* Added Disable Enemy Killmove component of Realistic melee range and killmove (Frost supported)
+* Added Binaural 3D Surround Sound for Headphones - HRTF to the Game Folder Files
+* Added FROST - Accuracy Reversion
+* Removed Wasteland Illumination Shadow Version
+* Removed FROST - Nuka World AddOn - Performance Patch
+* Removed FROST - Vanilla Signs Removal
 
 **v1.3.3**
 
