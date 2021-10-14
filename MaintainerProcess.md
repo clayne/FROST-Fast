@@ -1,4 +1,5 @@
-The update process:
+Maintainer's update process
+(This documentation is for the modlist maintainer only. It is not for end users / players.)
 
 # Perform updates in MO2 like adding, removing, or updating mods
 # Remove the custom Complex Sorter List mod
