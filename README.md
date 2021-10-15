@@ -1,7 +1,7 @@
 # FROST Fast
 
 **Latest Release:**
-v1.4.0 (10/14/2021)
+v1.4.1 (10/15/2021)
 
 - [Preamble](#preamble)
 - [Installation](#installation)
@@ -115,7 +115,7 @@ Place the _Wabbajack.exe_ file in a new folder, e.g. C:\Wabbajack.
 
 ### Download the modlist
 
-Download the latest release of **FROST Fast** from [Github](https://github.com/interworlder/FROST-Fast/releases). For your convenience, [here is the direct download link](https://github.com/interworlder/FROST-Fast/releases/download/v1.4.0/FROST.Fast.wabbajack). You can save it in the same folder as Wabbajack, e.g. C:\Wabbajack.
+Download the latest release of **FROST Fast** from [Github](https://github.com/interworlder/FROST-Fast/releases). For your convenience, [here is the direct download link](https://github.com/interworlder/FROST-Fast/releases/download/v1.4.1/FROST.Fast.wabbajack). You can save it in the same folder as Wabbajack, e.g. C:\Wabbajack.
 
 ### Install the modlist
 
@@ -427,6 +427,12 @@ All credit and thanks go to the Fallout 4 modding community and the Wabbajack de
 Bug reports and feature requests should go into the [Github issues tracker](https://github.com/interworlder/FROST-Fast/issues) for **FROST Fast**.
 
 ## Changelog
+
+**v1.4.1**
+
+* **IMPORTANT:** If you are updating FROST Fast to this version, follow the steps in [Updating](#updating) and then follow the steps in [Copy Game Folder Files](#copy-game-folder-files) as well.
+* Edited the install process for F4SE Scripts, Address Library, and Buffout 4 to use MO2's virtualized mod folders
+* Added Binaural 3D Surround Sound for Headphones - HRTF to the Game Folder Files again (they were missing from the previous version v1.4.1)
 
 **v1.4.0**
 
