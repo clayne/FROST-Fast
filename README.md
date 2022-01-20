@@ -1,7 +1,7 @@
 # FROST Fast
 
 **Latest Release:**
-v1.4.1 (10/15/2021)
+v1.5.0 (1/20/2022)
 
 - [Preamble](#preamble)
 - [Installation](#installation)
@@ -38,9 +38,9 @@ v1.4.1 (10/15/2021)
 
 FROST is a total conversion mod which turns Fallout 4 into a challenging survival experience. It has brand new lore, enemies, and gameplay systems.
 
-Many talented mod authors have contributed to the current state of FROST: which is mostly bug-free and still getting expanded on by the community! All credit goes to those authors.
+This modlist, **FROST Fast**, collects multiple mods for you to install with Wabbajack. It's good for anyone who wants to enjoy a modern FROST experience in a relatively fast and easy way--and without being required to learn everything about modding.
 
-This modlist, **FROST Fast**, simply collects multiple mods for you to install using Wabbajack. It's good for beginners or anyone who wants to enjoy the modern FROST experience in a relatively fast and easy way (without needing to learn absolutely everything about modding Bethesda games).
+Many talented mod authors have contributed to the current state of FROST: which is remarkably bug-free and still being expanded! All credit goes to those authors.
 
 # Installation
 
@@ -115,7 +115,7 @@ Place the _Wabbajack.exe_ file in a new folder, e.g. C:\Wabbajack.
 
 ### Download the modlist
 
-Download the latest release of **FROST Fast** from [Github](https://github.com/interworlder/FROST-Fast/releases). For your convenience, [here is the direct download link](https://github.com/interworlder/FROST-Fast/releases/download/v1.4.1/FROST.Fast.wabbajack). You can save it in the same folder as Wabbajack, e.g. C:\Wabbajack.
+Download the latest release of **FROST Fast** from [Github](https://github.com/interworlder/FROST-Fast/releases). For your convenience, [here is the direct download link](https://github.com/interworlder/FROST-Fast/releases/download/v1.5.0/FROST.Fast.wabbajack). You can save it in the same folder as Wabbajack, e.g. C:\Wabbajack.
 
 ### Install the modlist
 
@@ -388,25 +388,25 @@ This is a Complex Sorter list generated specifically for the FROST Fast modlist.
 
 ## FAQ
 
-**Can I add body replacers, skin texture mods, or other cosmetic mods?**
-
-Yes, I recommend putting those mods under the "Player Appearance" separator in Mod Organizer 2. Remember to re-order your plugins (on the right) so they match the mod list (on the left).
-
-**Why is the R88 Simple Sorter mod included in the modlist?**
-
-This ESP is not technically required, but I have included it in case someone wants to generate their own custom item sorting list using Complex Sorter.
-
 **Why do enemies and mines sometimes disappear after loading a save?**
 
 This is a bug from vanilla Fallout 4 which was unfortunately never fixed by Bethesda. You can get past it by quitting the game to desktop, starting the game again, and loading the save. This will ensure that enemies and explosives are respawned correctly.
 
+**Can I add player textures, 3d model replacers, and other cosmetic mods?**
+
+Yes, you would want to put those mods under the "Player Appearance" separator in Mod Organizer 2. Remember to re-order your plugins (on the right) so they match the mod list (on the left).
+
+**Why is the R88 Simple Sorter mod included in the modlist?**
+
+This ESP is not technically required, but I have included it just in case someone wants to generate their own custom item sorting list using Complex Sorter.
+
 **Can I add NSFW (Not Safe For Work) mods?**
 
-You can do this on your own, but unfortunately I cannot provide any support for those type of mods.
+Yes, you can, but unfortunately I cannot provide support in that area!
 
-**Why is the PANPC (Pack Attack NPC) mod excluded from the modlist?**
+**Why isn't the PANPC mod included in the modlist?**
 
-The current download license for PANPC forbids it from being included in any modpack or automated mod list regime. Sorry! But if you're looking for an even greater challenge in FROST, then you can add the mod yourself (along with its FROST compatibility patch).
+The current download license for Pack Attack NPC forbids its inclusion from any modpack or automated modlist. Sorry! Of course, feel free to add the mod yourself (along with its FROST compatibility patch).
 
 ## Removing the Modlist
 
@@ -427,6 +427,27 @@ All credit and thanks go to the Fallout 4 modding community and the Wabbajack de
 Bug reports and feature requests should go into the [Github issues tracker](https://github.com/interworlder/FROST-Fast/issues) for **FROST Fast**.
 
 ## Changelog
+
+**v1.5.0**
+
+* Added Game Configuration Menu
+* Added Sprint Stuttering Fix
+* Added Valius High Resolution Texture Pack 4K
+* Added Natural Landscapes 4K
+* Added FlaconOil's Complete Retexture Project
+* Added Enhanced Blood Textures
+* Added Puddle Remover Plus
+* Added Magnetic Coils and Capacitors - A Gauss Rifle Retexture
+* Added Wasteland Illumination Shadow Version (again)
+* Added Animated Chems Redone
+* Added GNN National Broadcast - Diamond City Radio without Travis 2.0.0 Update
+* Added Spitfire Enhanced Muzzle FX
+* Added Wattz Laser Gun
+* Added Fallout 3 10mm SMG
+* Added Fire Axe
+* Added Murdering Chainsaw
+* Added AK74M
+* Added Vivid Weathers
 
 **v1.4.1**
 
