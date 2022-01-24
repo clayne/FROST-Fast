@@ -1,7 +1,7 @@
 # FROST Fast
 
 **Latest Release:**
-v1.5.0 (1/20/2022)
+v1.5.1 (1/23/2022)
 
 - [Preamble](#preamble)
 - [Installation](#installation)
@@ -21,9 +21,9 @@ v1.5.0 (1/20/2022)
   - [Post-Installation](#post-installation)
     - [Copy Game Folder Files](#copy-game-folder-files)
     - [Edit INI files](#edit-ini-files)
-- [Starting FROST for the First Time](#starting-frost-for-the-first-time)
-  - [MCM Configuration](#mcm-configuration)
-  - [Holotape Configuration](#holotape-configuration)
+  - [Starting FROST for the First Time](#starting-frost-for-the-first-time)
+    - [MCM Configuration](#mcm-configuration)
+    - [Holotape Configuration](#holotape-configuration)
 - [Updating](#updating)
 - [Notable Mods](#notable-mods)
 - [FAQ](#faq)
@@ -115,7 +115,7 @@ Place the _Wabbajack.exe_ file in a new folder, e.g. C:\Wabbajack.
 
 ### Download the modlist
 
-Download the latest release of **FROST Fast** from [Github](https://github.com/interworlder/FROST-Fast/releases). For your convenience, [here is the direct download link](https://github.com/interworlder/FROST-Fast/releases/download/v1.5.0/FROST.Fast.wabbajack). You can save it in the same folder as Wabbajack, e.g. C:\Wabbajack.
+Download the latest release of **FROST Fast** from [Github](https://github.com/interworlder/FROST-Fast/releases). For your convenience, [here is the direct download link](https://github.com/interworlder/FROST-Fast/releases/download/v1.5.1/FROST.Fast.wabbajack). You can save it in the same folder as Wabbajack, e.g. C:\Wabbajack.
 
 ### Install the modlist
 
@@ -192,7 +192,7 @@ sResourceDataDirsFinal=
 
 Save your changes to Fallout4.ini.
 
-## Starting FROST for the First Time
+### Starting FROST for the First Time
 
 Go to the install location, e.g. C:\FROST-Fast\Install
 
@@ -202,7 +202,7 @@ At the top-right, F4SE should be selected already. Click Run.
 
 From the main menu, go to Settings > Gameplay. _New Game Difficulty_ should be set as _Survival_.
 
-This is also a good time to adjust your HUD and Pipboy colors. Go to Settings > Display. I like to use white, so I max out all of these sliders:
+In Settings > Display, personalize your HUD and Pipboy colors if needed.
 
 * HUD Color R
 * HUD Color G
@@ -211,39 +211,49 @@ This is also a good time to adjust your HUD and Pipboy colors. Go to Settings > 
 * Pip-Boy Color G
 * Pip-Boy Color B
 
-Go back to the main menu, and click _New_ to start a new game!
+Return to the main menu.
+
+Click _New_ to start the game!
 
 ### MCM Configuration
 
-MCM configuration is optional, but feel free to check out all the options available to you.
+When you have finished character setup, hit _ESC_ and click _Mod Config_.
 
-When you are in-game and finished with character setup, hit _ESC_ and click _Mod Config_.
+NPCs Travel is the only one which *must* be configured.
+
+* NPCs Travel > Number of NPCs > set Synth Patrol to 0
+* NPCs Travel > Number of NPCs > DLC > set everything under Far Harbor to 0, including Nuka-World and Nuka-World Open Season
 
 ### Holotape Configuration
 
-There are also a few settings accessible from the in-game Pip-Boy, which come in the form of holotapes.
+There are optional settings accessible via Pip-Boy holotapes. You can craft them at any Chemistry Table.
 
-They might be in your inventory already OR they might need to be crafted at a Chemistry Table.
+You are done with installation!
 
-NPCs Travel is the only one which *must* be configured. Follow the [step-by-step instructions in this image gallery](https://www.nexusmods.com/fallout4/mods/54830/?tab=images).
+## Optional High-Res Textures
+
+These retexture mods are optional, but they can improve the game's visual fidelity greatly. Consider adding them to your modlist under the "Retextures" section! You will need a video card with at least 8GB VRAM.
+
+* [Valius High Resolution Texture Pack 4K](https://www.nexusmods.com/fallout4/mods/318?tab=files)
+* [Natural Landscapes 4K](https://www.nexusmods.com/fallout4/mods/38841?tab=files)
+* [FlaconOil's Complete Retexture Project](https://www.nexusmods.com/fallout4/mods/3747)
+* [Magnetic Coils and Capacitors - A Gauss Rifle Retexture](https://www.nexusmods.com/fallout4/mods/55288?tab=files)
 
 ## Updating
 
-Here are a few things you should know before updating:
+Before you update the modlist, please read carefully:
 
-* Starting a new game is the safest option after an update. Old save files might be incompatible.
-* The Installation Location will be deleted and restored by Wabbajack, so all mods which are not part of this modlist will be removed.
-* The Download Location will NOT be deleted by Wabbajack, so you will only download more content if there has been an addition or update.
+* Your old save files might be broken after an update. The safest option is starting a new game.
+* The Installation Location will be deleted and rebuilt by Wabbajack, so all mods which are not part of this modlist will be deleted.
+* If you want to know what has changed, please review the [Changelog](#changelog).
 
-If you want to know what has changed in the latest version, please review the [Changelog](#changelog).
-
-Otherwise, you can update the modlist by following these steps:
+Update the modlist by following these steps:
 
 1. Download the latest release of **FROST Fast** from [Github](https://github.com/interworlder/FROST-Fast/releases)
 2. Run Wabbajack.exe
-3. Click on _Install From Disk_ and open the newest version of the file _FROST Fast.wabbajack_
-4. Set the same _Installation Location_, e.g. C:\FROST-Fast\Install
-5. Set the same _Download Location_, e.g. C:\FROST-Fast\Download
+3. Click on _Install From Disk_ and open the latest release: _FROST Fast.wabbajack_
+4. Set the same _Installation Location_, default C:\FROST-Fast\Install
+5. Set the same _Download Location_, default C:\FROST-Fast\Download
 6. Check the box _Overwrite Installation_
 7. Click the Start button
 8. Follow any instructions from Wabbajack (sign into NexusMods, click the download buttons, etc.)
@@ -254,135 +264,53 @@ Otherwise, you can update the modlist by following these steps:
 <details>
   <summary>Click to expand!</summary>
 
-**Fallout 4 Script Extender (F4SE)**
-
-**Buffout 4**
-
-**Unofficial Fallout 4 Patch**
-
-**Mod Configuration Menu**
-
-**FO4 Photo Mode**
-
-**Raw Input - The Ultimate Mouse Sensitivity Fix**
-
-**High FPS Physics Fix**
-
-**Binaural 3D Surround Sound for Headphones - HRTF**
-
-**Vats over there - Increased V.A.T.S Distance**
-
-**LevelUpMenuEx**
-
-**Extended Dialogue Interface**
-
-**Silent UI**
-
-Disables quest and XP-related sound effects. Disables faction music. Disables perk activation sounds. Disables battle music and player death music.
-
-**DEF_UI Iconlibs Rescaled and Fixed - Colored**
-
-**FallUI**
-
-**FallUI - HUD**
-
-**FallUI - Workbench**
-
-**FallUI - Confirm Boxes**
-
-**FallUI - Map**
-
-**Ultra Interior Lighting**
-
-**Ultra Exterior Lighting**
-
-**Project Reality Footsteps (Snow Edition)**
-
-**Scavver's Toolbox**
-
-**Campsite - Simple Wasteland Camping**
-
-Allows the player to sleep and save anywhere (if they are willing to craft and carry a sleeping bag).
-
-**Far Harbor Trap Overhaul**
-
-**Grab and Eat All-in-One**
-
-**NPCs Travel**
-
-**Remove Low Health Blur**
-
-Removes the blur applied when the player's health is low, but keeps the blur when the player's head is crippled.
-
-**Death effects Removed**
-
-Removes the intense blur applied upon death.
-
-**Real Time Death (No Slow mo) - 20 seconds**
-
-Gives the player a sad (or hilarious) moment to reflect on their most recent death.
-
-**Smokeable Cigars - Cigarettes - Joints - With HardCore Auto Save**
-
-Allows the player to save anywhere (if they are willing to use an addictive drug).
-
-**Less Cigarette and Cigar Loot**
-
-**Fill'em Up Again (Dynamic Bottle Recyclation)**
-
-**LooksMenu**
-
-Improves the character creation interface.
-
-**FROST Survival Simulator**
-
-**Alternative Farming for FROST**
-
-**FROST Unofficial Updates**
-
-**FROST - Nuka World AddOn**
-
-**Freeze Intimidation Overhaul**
-
-**FROST Survival Kit**
-
-**FROST Downtown Linked Workbenches**
-
-**Frost Downtown Monohome**
-
-Adds a player home to Downtown. If the radio is too much, open the console, select it, and use the "disable" command.
-
-**Frost Plus**
-
-**FROST - More Starting Locations**
-
-**FROST - It Snowed - Winter Textures**
-
-**FROST - Snowy Weathers**
-
-**Frost - Dogmeat resurrected**
-
-Adds the option of recruiting a canine companion. Makes FROST easier because the dog cannot be killed, alerts on nearby enemies, and adds sanity... but it is optional. 
-
-**See-Through-Scopes**
-
-**FROST - Exterior Cell Fixes**
-
-**FROST - Interior Cell Fixes**
-
-**Ruddy88's Simple Sorter**
-
-This ESP is not required and therefore disabled, but I am including it just in case someone wants to generate their own item sorting list using Complex Sorter.
-
-**FROST Fast - Complex Sorter List**
-
-This is a Complex Sorter list generated specifically for the FROST Fast modlist.
-
-**Satellite World Map**
-
-**Far Harbor Satellite Map**
-
-**Nuka-World Satellite Map**
+F4SE
+Address Library for F4SE Plugins
+Buffout 4
+High FPS Physics Fix
+Sprint Stuttering Fix
+Better Console - F4SE
+Crafting Highlight Fix
+Encounter Zone Recalculation
+Recoil Shake and Low Ammo Sounds
+Unlimited Survival Mode - F4SE
+Unofficial Fallout 4 Patch
+Mod Configuration Menu
+Game Configuration Menu
+Survival Configuration Menu
+FO4 Photo Mode
+RAW INPUT - The Ultimate Mouse Sensitivity Fix
+Vats over there - Increased V.A.T.S Distance
+LevelUpMenuEx
+PipboyTabs
+Extended Dialogue Interface
+Silent UI
+DEF_UI Iconlibs Rescaled and Fixed - Colored
+FallUI
+FallUI - HUD
+FallUI - Workbench
+FallUI - Confirm Boxes
+FallUI - Map
+Custom Camera
+DavesMods - In Game ESP Explorer Maintenance
+Wasteland Illumination Shadow Version
+Ultra Interior Lighting
+Ultra Exterior Lighting
+Spitfire (Enhanced Muzzle FX) lite
+Spitfire (Enhanced Muzzle FX) smoke lite
+Spitfire (Enhanced Muzzle FX) extra pistol only
+LooksMenu
+FROST Survival Simulator
+FROST Unofficial Updates
+FROST - Nuka World AddOn
+FROST - It Snowed - Winter Textures
+Frost Plus
+Winter Redone
+Winter Commonwealth Pines
+See-Through-Scopes
+FROST - Exterior Cell Fixes and FPS Boost
+FROST - Interior Cell Fixes
+Vivid Weathers
 
 </details>
 
@@ -427,6 +355,13 @@ All credit and thanks go to the Fallout 4 modding community and the Wabbajack de
 Bug reports and feature requests should go into the [Github issues tracker](https://github.com/interworlder/FROST-Fast/issues) for **FROST Fast**.
 
 ## Changelog
+
+**v1.5.1**
+* Removed Valius High Resolution Texture Pack 4K
+* Removed Natural Landscapes 4K
+* Removed FlaconOil's Complete Retexture Project
+* Removed Magnetic Coils and Capacitors - A Gauss Rifle Retexture
+* The retextures above have been moved to Readme as "Optional High-Res Textures"
 
 **v1.5.0**
 
