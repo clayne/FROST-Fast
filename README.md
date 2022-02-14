@@ -321,9 +321,13 @@ Vivid Weathers
 
 This is a bug from vanilla Fallout 4 which was unfortunately never fixed by Bethesda. You can get past it by quitting the game to desktop, starting the game again, and loading the save. This will ensure that enemies and explosives are respawned correctly.
 
+**Any other known bugs?**
+
+* If the player is wearing power armor, using Scavver's Toolbox can hang the game. As a workaround, exit the power armor first.
+
 **Can I add player textures, 3d model replacers, and other cosmetic mods?**
 
-Yes, you would want to put those mods under the "Player Appearance" separator in Mod Organizer 2. Remember to re-order your plugins (on the right) so they match the mod list (on the left).
+Yes, you would want to put those mods under the "Player Appearance" separator in Mod Organizer 2. Remember to re-order the plugins (on the right) so they match the mod list (on the left).
 
 **Why is the R88 Simple Sorter mod included in the modlist?**
 
