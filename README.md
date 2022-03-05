@@ -25,7 +25,6 @@ FROST Fast is a modlist for Fallout 4. You play as a survivor in the Massachuset
     - [Holotape Configuration](#holotape-configuration)
   - [Optional High-Res Textures](#optional-high-res-textures)
 - [Updating](#updating)
-- [Notable Mods](#notable-mods)
 - [FAQ](#faq)
 - [Removing the Modlist](#removing-the-modlist)
 - [Credits and Thanks](#credits-and-thanks)
@@ -250,61 +249,6 @@ Update the modlist by following these steps:
 7. Click the Start button
 8. Follow any instructions from Wabbajack (sign into NexusMods, click the download buttons, etc.)
 9. Wait for Wabbajack to finish
-
-## Notable Mods
-
-<details>
-  <summary>Click to expand!</summary>
-
-F4SE
-Address Library for F4SE Plugins
-Buffout 4
-High FPS Physics Fix
-Sprint Stuttering Fix
-Better Console - F4SE
-Crafting Highlight Fix
-Encounter Zone Recalculation
-Recoil Shake and Low Ammo Sounds
-Unlimited Survival Mode - F4SE
-Unofficial Fallout 4 Patch
-Mod Configuration Menu
-Game Configuration Menu
-Survival Configuration Menu
-FO4 Photo Mode
-RAW INPUT - The Ultimate Mouse Sensitivity Fix
-Vats over there - Increased V.A.T.S Distance
-LevelUpMenuEx
-PipboyTabs
-Extended Dialogue Interface
-Silent UI
-DEF_UI Iconlibs Rescaled and Fixed - Colored
-FallUI
-FallUI - HUD
-FallUI - Workbench
-FallUI - Confirm Boxes
-FallUI - Map
-Custom Camera
-DavesMods - In Game ESP Explorer Maintenance
-Wasteland Illumination Shadow Version
-Ultra Interior Lighting
-Ultra Exterior Lighting
-Spitfire (Enhanced Muzzle FX) lite
-Spitfire (Enhanced Muzzle FX) smoke lite
-Spitfire (Enhanced Muzzle FX) extra pistol only
-LooksMenu
-FROST Survival Simulator
-FROST Unofficial Updates
-FROST - Nuka World AddOn
-FROST - It Snowed - Winter Textures
-Frost Plus
-Winter Redone
-Winter Commonwealth Pines
-See-Through-Scopes
-FROST - Exterior Cell Fixes and FPS Boost
-FROST - Interior Cell Fixes
-Vivid Weathers
-
-</details>
 
 ## FAQ
 
