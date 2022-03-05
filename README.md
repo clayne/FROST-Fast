@@ -1,16 +1,15 @@
 # FROST Fast
 
-**Latest Release:**
-v1.5.1 (1/23/2022)
+![FROST Fast Cover](https://github.com/interworlder/FROST-Fast/blob/main/Cover.jpg)
 
-- [Preamble](#preamble)
+**Latest Release:**
+v1.5.2 (3/5/2022)
+
+FROST Fast is a modlist for Fallout 4. You play as a survivor in the Massachusetts Commonwealth of 2082, just five years after the bombs fell.
+
 - [Installation](#installation)
   - [Install Microsoft Visual C++ Redistributable Package](#install-microsoft-visual-c-redistributable-package)
   - [Steam Config](#steam-config)
-    - [Disable the Steam Overlay](#disable-the-steam-overlay)
-    - [Disable the Steam Cloud](#disable-the-steam-cloud)
-    - [Change Steam's update behavior](#change-steams-update-behavior)
-    - [Set the game language to English](#set-the-game-language-to-english)
   - [Clean Fallout 4](#clean-fallout-4)
   - [Start Fallout 4](#start-fallout-4)
   - [Using Wabbajack](#using-wabbajack)
@@ -32,16 +31,6 @@ v1.5.1 (1/23/2022)
 - [Credits and Thanks](#credits-and-thanks)
 - [Contact](#contact)
 - [Changelog](#changelog)
-
-# Preamble
-
-![FROST Fast Cover](https://github.com/interworlder/FROST-Fast/blob/main/Cover.jpg)
-
-FROST is a total conversion mod which turns Fallout 4 into a challenging survival experience. It has brand new lore, enemies, and gameplay systems.
-
-This modlist, **FROST Fast**, collects multiple mods for you to install with Wabbajack. It's good for anyone who wants to enjoy a modern FROST experience in a relatively fast and easy way--and without being required to learn everything about modding.
-
-Many talented mod authors have contributed to the current state of FROST: which is remarkably bug-free and still being expanded! All credit goes to those authors.
 
 # Installation
 
@@ -87,7 +76,9 @@ Go to the _Language_ tab. Make sure that _English_ is selected.
 
 If you have modded Fallout 4 in the past, then you must clean your game folder to prevent conflicts. Do not skip this step!
 
-If you have NOT modded Fallout 4 in the past, then you can skip to the [Start Fallout 4](#start-fallout-4) section.
+If you have NOT modded Fallout 4 before, then you can skip to the next section [Start Fallout 4](#start-fallout-4).
+
+If you need to clean the game folder, follow these steps:
 
 1. Uninstall the game through Steam
 2. Delete the game folder, which should be C:\Program Files (x86)\Steam\steamapps\common\Fallout 4 by default
@@ -116,7 +107,7 @@ Place the _Wabbajack.exe_ file in a new folder, e.g. C:\Wabbajack.
 
 ### Download the modlist
 
-Download the latest release of **FROST Fast** from [Github](https://github.com/interworlder/FROST-Fast/releases). For your convenience, [here is the direct download link](https://github.com/interworlder/FROST-Fast/releases/download/v1.5.1/FROST.Fast.wabbajack). You can save it in the same folder as Wabbajack, e.g. C:\Wabbajack.
+Download the latest release of **FROST Fast** from [Github](https://github.com/interworlder/FROST-Fast/releases). For your convenience, [here is the direct download link](https://github.com/interworlder/FROST-Fast/releases/download/v1.5.2/FROST.Fast.wabbajack). You can save it in the same folder as Wabbajack, e.g. C:\Wabbajack.
 
 ### Install the modlist
 
@@ -125,7 +116,7 @@ Keep in mind that downloading and installing the full modlist can take a very lo
 1. Run Wabbajack.exe
 2. Click on _Install From Disk_ and open the file _FROST Fast.wabbajack_
 3. Set the _Installation Location_, e.g. C:\FROST-Fast\Install
-4. Set the _Download Location_, e.g. C:\FROST-Fast\Download
+4. Set the _Download Location_, e.g. G:\FROST-Fast\Install\downloads
 5. Click the Start button
 6. Follow any instructions from Wabbajack (sign into NexusMods, click the download buttons, etc.)
 7. Wait for Wabbajack to finish -- this can take a very long time!
@@ -138,7 +129,7 @@ Wabbajack will safely re-check its own installation, pick up where it left off, 
 
 #### Wabbajack could not find my game folder
 
-Sorry! Wabbajack will not work with pirated versions of the game. If you own a legitimate copy of the game, start over from the beginning of [Installation](#installation) and don't skip any steps.
+Wabbajack will not work with pirated versions of the game. If you own a legitimate copy of the game, start over from the beginning of [Installation](#installation) and do not skip any steps.
 
 ## Post-Installation
 
@@ -323,11 +314,11 @@ This is a bug from vanilla Fallout 4 which was unfortunately never fixed by Beth
 
 **Any other known bugs?**
 
-* If the player is wearing power armor, using Scavver's Toolbox can hang the game. As a workaround, exit the power armor first.
+If the player is wearing power armor, using Scavver's Toolbox can hang the game. As a workaround, exit the power armor first.
 
-**Can I add player textures, 3d model replacers, and other cosmetic mods?**
+**Can I add player textures and other cosmetic mods?**
 
-Yes, you would want to put those mods under the "Player Appearance" separator in Mod Organizer 2. Remember to re-order the plugins (on the right) so they match the mod list (on the left).
+Yes, you can put those mods under the "Player Appearance" separator in Mod Organizer 2. Remember to re-order the plugins (on the right) so they match the mod list (on the left).
 
 **Why is the R88 Simple Sorter mod included in the modlist?**
 
@@ -339,7 +330,7 @@ Yes, you can, but unfortunately I cannot provide support in that area!
 
 **Why isn't the PANPC mod included in the modlist?**
 
-The current download license for Pack Attack NPC forbids its inclusion from any modpack or automated modlist. Sorry! Of course, feel free to add the mod yourself (along with its FROST compatibility patch).
+The author of the Pack Attack NPC mod forbids its inclusion in any modpack or automated modlist.
 
 ## Removing the Modlist
 
@@ -360,6 +351,13 @@ All credit and thanks go to the Fallout 4 modding community and the Wabbajack de
 Bug reports and feature requests should go into the [Github issues tracker](https://github.com/interworlder/FROST-Fast/issues) for **FROST Fast**.
 
 ## Changelog
+
+**v1.5.2**
+* Added FROST - Accuracy Reversion
+* Added Unequip Pipboy
+* Added Pip-Boy Flashlight
+* Removed DavesMods - In Game ESP Explorer Maintenance
+* Updated multiple mods to their latest version 
 
 **v1.5.1**
 * Removed Valius High Resolution Texture Pack 4K
