@@ -116,7 +116,7 @@ Keep in mind that downloading and installing the full modlist can take a very lo
 1. Run Wabbajack.exe
 2. Click on _Install From Disk_ and open the file _FROST Fast.wabbajack_
 3. Set the _Installation Location_, e.g. C:\FROST-Fast\Install
-4. Set the _Download Location_, e.g. G:\FROST-Fast\Install\downloads
+4. Set the _Download Location_, e.g. C:\FROST-Fast\Install\downloads
 5. Click the Start button
 6. Follow any instructions from Wabbajack (sign into NexusMods, click the download buttons, etc.)
 7. Wait for Wabbajack to finish -- this can take a very long time!
@@ -245,7 +245,7 @@ Update the modlist by following these steps:
 2. Run Wabbajack.exe
 3. Click on _Install From Disk_ and open the latest release: _FROST Fast.wabbajack_
 4. Set the same _Installation Location_, default C:\FROST-Fast\Install
-5. Set the same _Download Location_, default C:\FROST-Fast\Download
+5. Set the same _Download Location_, default C:\FROST-Fast\Install\downloads
 6. Check the box _Overwrite Installation_
 7. Click the Start button
 8. Follow any instructions from Wabbajack (sign into NexusMods, click the download buttons, etc.)
